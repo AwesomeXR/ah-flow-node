@@ -1,3 +1,7 @@
+# ah-flow-node
+
+![workflow](https://github.com/ch-real3d/ah-flow-node/actions/workflows/ci.yml/badge.svg)
+
 # 引入说明
 
 ```typescript
